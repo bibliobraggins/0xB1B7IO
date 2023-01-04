@@ -1,4 +1,4 @@
-### Hello, I go by Chloe. 
+### Hi, There!
 
 - 🔭 I’m currently working on some Elixir and Rust tools with a focus on "IoT" applications
 - 🌱 I’m currently learning about Multimedia practices and conventions
