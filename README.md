@@ -6,5 +6,5 @@
 - 💬 Ask me about the awful quirks of music copyright, my day, or my dogs
 - 📫 You can email me at bibliobraggins@gmail.com
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: There are not "rules" in music, only "conventions"
+- ⚡ Fun fact: There are no "rules", only "conventions"
 
