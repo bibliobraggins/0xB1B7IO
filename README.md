@@ -6,5 +6,5 @@
 - 💬 Ask me about the awful quirks of music copyright, my day, or my dogs
 - 📫 You can email me at bibliobraggins@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ There are no "rules", only "conventions"
+- ⚡ There are no "rules", only "contingent conventions"
 
