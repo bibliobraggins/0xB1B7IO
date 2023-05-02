@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on various multimedia and networking projects
 - 💬 Ask me about the awful quirks of music copyright, my day, or my dogs
 - 📫 You can email me at bibliobraggins@gmail.com
-- 😄 Pronouns: she/they
+- 😄 Pronouns: she/her
 - ⚡ There are no "rules", only "conventions"
 
