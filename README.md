@@ -1,10 +1,8 @@
 ### Hi there!
 
-- 🔭 I’m currently working on some Elixir and Rust tools with a focus on IoT and VoIP applications
-- 🌱 I’m currently learning about Multimedia practices and conventions
+- 🔭 I’m currently interested in IoT Networking and Multimedia applications
+- 🛠️ elixir and zig by Choice, working with java11/17 in my day to day
 - 👯 I’m looking to collaborate on various multimedia and networking projects
-- 💬 Ask me about the awful quirks of music copyright, my day, or my dogs
-- 📫 You can email me at bibliobraggins@gmail.com
-- 😄 Pronouns: she/her
+- 🌱 learning about structured ocncurrency and non-blocking IO 
+- 📫 You can email me at 0xb1b7io@gmail.com
 - ⚡ There are no "rules", only "contingent conventions"
-
